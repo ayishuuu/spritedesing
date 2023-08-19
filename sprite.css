@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: #009b4e;
+    position: sticky;
+    top: 0px;
+    display: flex;
+    height: 80px;
+}
+.logo{
+    height: 50px;
+    width: 137px;
+    padding-left: 48px;
+    padding-top: 17px;
+}
+.product{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 50px;
+    font-family: fantasy;
+    padding-top: 35px;
+} 
+.product:hover{
+    color: #000000;
+}
+.suger{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 50px;
+    font-family: fantasy;
+    padding-top: 35px;
+}
+.suger:hover{
+    color: #000000;
+}
+.the{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 50px;
+    font-family: fantasy;
+    padding-top: 35px;
+}
+.the:hover{
+    color: #000000;
+}
+.now{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 50px;
+    font-family: fantasy;
+    padding-top: 35px;
+}
+.now:hover{
+    color: #000000;
+}
+.ikon1{
+    margin-left: 345px;
+    margin-top: 34px;
+    width: 5%;
+}
+.ikon1:hover{
+    color: #000000;
+}
+.ikon2{
+    margin-left: 400px;
+    margin-top: -30px;
+    width: 5%;
+}
+.ikon2:hover{
+    color: #000000;
+}
+.ikon3{
+    margin-left: 450px;
+    margin-top: -30px;
+    width: 5%;
+}
+.ikon3:hover{
+    color: #000000;
+}
+.ikon4{
+    margin-left: 500px;
+    margin-top: -30px;
+    width: 5%;
+}
+.ikon4:hover{
+    color: #000000;
+}
+.ikon5{
+    margin-left: 550px;
+    margin-top: -30px;
+    width: 5%;
+}
+.ikon5:hover{
+    color: #000000;
+}
+.image1{
+    width: 694px;
+    height: 550px;
+    margin-left: 49%;
+}
+.login{
+    background-color: #000000;
+    width: 76%;
+    margin-top: -554px;
+    margin-right: 672px;
+}
+.content{
+    color: #fff;
+    padding-left: 90px;
+    margin-top: 60px;
+    background-color: #000000;
+    font-size: 360%;
+    font-family: fantasy;
+}
+.section{
+    margin-bottom: 86px;
+    background-color: black;
+    height: 296px;
+    width: 795p
+}
+.image2{
+    height: 85px;
+    width: 300px;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.vdo{
+    padding-left: 123px;
+    width: 500px;
+    margin-top: -12px;
+}
+.vdopgh1{
+    padding-left: 687px;
+    font-size: 59px;
+    font-family: fantasy;
+    margin-top: -321px;
+}
+.vdopgh2{
+    font-size: 50%;
+}
+.button{
+    margin-left: 695px;
+    margin-top: 80px;
+    background-color: rgb(255,209,0);
+    color: #000000;
+    font-size: 18px;
+    font-family: fantasy;
+    width: 12%;
+    block-size: 31px;
+    border:#000000;
+}
+.button:hover{
+    color:#fff ;
+    background-color: #444444;
+}
+.image3{
+    height: 425;
+    width: 680px;
+    margin-left: 685px;
+    margin-top: 55px;
+}
+.imgpgh{
+    margin-left: 116px;
+    margin-top: -305px;
+    font-size: 370%;
+    font-family: fantasy;
+    color: rgb(0,150,57);
+}
+.last{
+    background-color: #009b4e;
+    height: 410px;
+    width: 1353px;
+    margin-top: 90px;
+}
+.image4{
+    width: 135px;
+    height: 55px;
+    margin-left: 215px;
+    margin-top: 112px;
+}
+.with1{
+    margin-top: -96px;
+}
+.with{
+    padding-left: 478px;
+    font-size: 78%;
+    color: #fff;
+    font-family: fantasy;
+    text-decoration: none;
+}
+.icon1{
+    margin-left: 438px;
+    margin-top: 36px;
+}
+.icon2{
+    margin-left: 466px;
+    margin-top: -30px;
+}
+.icon3{
+    margin-left: 495px;
+    margin-top: -30px;
+}
+.icon4{
+    margin-left: 524px;
+    margin-top: -30px;
+}
+.icon5{
+    margin-left: 553px;
+    margin-top: -30px;
+}
+.lastproducts{
+    color: #fff;
+    font-family: fantasy;
+    margin-left: 760px;
+    padding-top: 0px;
+}
+.lastproduct{
+    margin-top: -100px;
+}
+.lastbottum{
+    color: #fff;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lasttext1{
+    padding-left: 455px;
+}
+.lasttext2{
+    padding-left: 75px;
+}
+
+
+
+
+
+
+
+
+   
+
